@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HappyBirthday</string>
+
+    <string name="happy_birthday_header">Happy Birthday %1$s!</string>
+    <string name="happy_birthday_footer">From GDGCoimbra!</string>
+</resources>
