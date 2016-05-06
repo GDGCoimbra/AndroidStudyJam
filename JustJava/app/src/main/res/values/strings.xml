@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Just Java</string>
+
+    <!-- Main Activity -->
+    <string name="name_hint">Your name goes here</string>
+
+    <string name="coffee_toppings">Toppings</string>
+    <string name="coffee_quantity">Quantity</string>
+    <string name="coffee_price">Price</string>
+
+    <string name="topping_whipped_cream">Whipped Cream</string>
+    <string name="topping_chocolate">Chocolate</string>
+
+    <string name="topping_no_whipped_cream">No whipped cream</string>
+    <string name="topping_no_chocolate">No chocolate</string>
+
+    <!-- Order Activity -->
+    <string name="order_details">Details:</string>
+    <string name="order_coffee">Order</string>
+    <string name="order_price_per_coffee">%1$s per coffee</string>
+    <string name="order_total">Total: %1$s</string>
+    <string name="order_summary">Order summary for: %1$s</string>
+    <string name="order_name">Coffee order for: %1$s</string>
+    <string name="order_none">Order not found.</string>
+    <string name="order_failed">Unable to place order. There\'s no email application installed.</string>
+</resources>
